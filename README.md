@@ -1,4 +1,4 @@
-GreenMind DataForge
+AI -Driven Data Engineering System for Smart Waste Analysis
 
 AI -Driven Data Engineering System for Smart Waste Analysisis an Artificial Intelligence–driven data engineering platform focused on building intelligent, scalable, and automated data pipelines for environmental and sustainability-oriented data. The system ingests raw data from diverse sources such as sensors, logs, and structured datasets, then applies AI and machine learning techniques to clean, transform, enrich, and analyze the data efficiently.
 
